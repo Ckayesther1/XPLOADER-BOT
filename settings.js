@@ -25,13 +25,13 @@ global.botname = process.env.BOT_NAME || '𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁�
 
 //=================================================//
 
-global.ownernumber = process.env.OWNER_NUMBER || '254796180105'
+global.ownernumber = process.env.OWNER_NUMBER || '2348069016472'
 //Type your number here
 
 //=================================================//
 
 
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || 'C_kay 
 //Type your name here
 
 //=================================================//
@@ -107,12 +107,12 @@ global.typereply = process.env.REPLY_TYPE || 'v2'
 
 //=================================================//
 
-global.autoblocknumber = process.env.AUTO_BAN || '' 
+global.autoblocknumber = process.env.AUTO_BAN || '234' 
 //set autoblock country code
 
 //=================================================//
 
-global.antiforeignnumber = process.env.AUTO_BLOCK || '' 
+global.antiforeignnumber = process.env.AUTO_BLOCK || '234' 
 //set anti foreign number country code
 
 //=================================================//
@@ -142,7 +142,7 @@ global.mess = {
     error: '*Sorry, I cannot perform that action!*',
     success: '*©𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭*',
     premium: '*Only premium users can use this command!*',
-    owner: '*Apologies, only my owner can use this command!*',
+    owner: '*Owners command,fuck off bitch!*',
     group: '*This feature becomes available when you use it in a group!*',
     admin: '*You’ll unlock this feature with me as an admin!*',
     notadmin: '*This feature will work once you become an admin. A way of ensuring order!*'
